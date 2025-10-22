@@ -347,7 +347,11 @@ navs:
     - name: 'Inspira UI'
       link: 'https://inspira-ui.com/'
       desc: 'Open source components to build beautiful  websites using Vue & Nuxt'
-      icon: 'https://inspira-ui.com/logo-dark.svg'
+      icon: 'https://inspira-ui.com/logo.svg'
+    - name: 'React Bits'
+      link: 'https://www.reactbits.dev/'
+      desc: 'React Component For Creative Developers'
+      icon: 'https://www.reactbits.dev/favicon.ico'
 
   Node:
     - name: 'Node.js'
